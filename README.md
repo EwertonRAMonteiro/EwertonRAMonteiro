@@ -12,7 +12,7 @@
   <br>
 <a href="https://skillicons.dev">
   <h2>Skills<h2/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,mysql,css,bootstrap,html,c#,coreldraw,react,java,spring" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,mysql,css,bootstrap,html,cs,react,java,dotnet,eclipse,pr,spring" />
   <h2>Estudando<h2/>
   <img src="https://skillicons.dev/icons?i=javascript,java,mysql" />
 </a>
