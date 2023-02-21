@@ -32,4 +32,5 @@
 <br><p align="centre"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ewertonramonteiro}/count.svg" /></p> 
 <br></div>
+    <br>
     
